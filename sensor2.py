@@ -1,3 +1,3 @@
-# Versió del programa al final del dia 3
+# Versió del programa al final del dia 4
 
 
