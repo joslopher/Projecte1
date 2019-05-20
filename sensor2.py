@@ -1,1 +1,3 @@
-# Aquesta és una prova...
+# Versió del programa al final del dia 3
+
+
